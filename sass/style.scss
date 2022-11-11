@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(67, 60, 149);
+}
+
+.nav-link{
+  color: rgb(207, 82, 82);
+}
+.mask-custom {
+  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, .15);
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+  letter-spacing: 3px;
+}
+
+.main {
+  background-image: url(https://wallpaper.dog/large/5447432.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+
+.main h1 {
+  margin: 0 0 10px 0;
+  font-size: 64px;
+  font-family: "Satisfy", serif;
+  color: rgb(248, 170, 170);
+}
+.main h2 {
+    color: rgb(251, 248, 248);
+    margin-bottom: 50px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.main-container{
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 15px;
+}
+
+.main2{
+  display: block;
+}
+section {
+  padding: 60px 0;
+}
+.section-bg {
+  background-color: white;
+}
+.section-title {
+  text-align: center;
+  padding: 30px 0;
+  position: relative;
+}
+.section-title h2 {
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: #020202;
+  position: relative;
+  
+}
+.about{
+  background-image: url(https://wallpaper.dog/large/5567966.jpg);
+  
+  background-size: cover;
+  position: relative;
+  
+  height: 80vh;
+  background-attachment: fixed;
+}
+.card{
+  background-color: rgb(250, 249, 251);
+  text-align: center;
+  height: 504px;
+  
+}
+.row{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+  
+  
+  
+}
+.o{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+  .card-body{
+    background-color: rgb(181, 232, 246);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .kontakt-title{
+    text-align: center;
+  padding: 30px 0;
+  position: relative;
+  }
+
+  .kontakt-title h2 {
+    font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: #020202;
+  position: relative;
+  }
+
+  .main3{
+    background-image: url(https://wallpapercave.com/wp/wp2686673.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+  }
